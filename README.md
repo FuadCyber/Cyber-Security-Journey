@@ -1,6 +1,8 @@
 # Cyber-Security-Journey
+
 My journey learning cybersecurity on TryHackMe
-#  اهلا، أنا فؤاد العسيري 
+
+# أهلاً، أنا فؤاد العسيري (FuadCyber)
 
 ## 🛡️ رحلتي في الأمن السيبراني
 أوثق هنا رحلتي التعليمية في مجال الأمن السيبراني، بدءاً من الأساسيات وصولاً إلى التخصص.
@@ -23,4 +25,5 @@ My journey learning cybersecurity on TryHackMe
 - `05-Scripts/`: سكربتات Python كتبتها
 
 ## 📫 تواصل معي
-- TryHackMe: https://tryhackme.com/p/alasiryfuad
+- GitHub: [FuadCyber](https://github.com/FuadCyber)
+- TryHackMe: [My Profile](https://tryhackme.com/p/alasiryfuad) 
